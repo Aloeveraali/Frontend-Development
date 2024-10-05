@@ -1,0 +1,11 @@
+body {
+    background-color: #FFF8DC; /* Light beige background color */
+    color: #000999;            /* Dark blue text color */
+    font-family: Arial, Verdana, sans-serif; /* Font family */
+  }
+  
+  #new {
+    font-weight: bold;   /* Makes text bold */
+    font-style: italic;  /* Makes text italic */
+  }
+  

@@ -1,0 +1,70 @@
+/* General styling for the body of the webpage */
+body {
+    font-family: 'Arial', sans-serif; /* Sets the font to Arial, with sans-serif as fallback */
+    background-color: #f7f7f7; /* Light background color */
+    color: #333; /* Dark gray text color */
+    margin: 20px; /* Adds space around the body content */
+    line-height: 1.6; /* Increases line spacing for better readability */
+}
+
+/* Styling for the main movie title (h1) */
+.Movie {
+    font-size: 3em; /* Sets the font size to 3 times the base size */
+    color: #2c3e50; /* Dark blue-gray text color */
+    text-align: center; /* Centers the text */
+    margin-bottom: 20px; /* Adds space below the title */
+    text-shadow: 1px 1px 2px #999; /* Adds a subtle shadow effect to the text */
+}
+
+/* Styling for the description paragraph */
+.description {
+    font-size: 1.2em; /* Sets the font size slightly larger than normal */
+    color: #555; /* Medium gray text color */
+    margin-bottom: 20px; /* Adds space below the paragraph */
+    text-align: justify; /* Justifies the text for even spacing on both sides */
+}
+
+/* Styling for the introduction paragraph for the characters */
+.intro {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 1.1em; /* Slightly increases the font size */
+    color: #444; /* Dark gray text color */
+    margin-bottom: 10px; /* Adds space below the paragraph */
+}
+
+/* Styling for the unordered list */
+ul {
+    list-style-type: disc; /* Uses default disc bullets for the list */
+    padding-left: 20px; /* Indents the list items */
+    margin-bottom: 20px; /* Adds space below the list */
+}
+
+/* Styling for the individual list items */
+li {
+    font-size: 1.1em; /* Increases the font size for list items */
+    margin-bottom: 5px; /* Adds space between list items */
+}
+
+/* Styling for the more-info paragraph */
+.more-info {
+    font-size: 1em; /* Sets the font size to normal */
+    color: #3498db; /* Sets the text color to a shade of blue */
+    margin-bottom: 20px; /* Adds space below the paragraph */
+}
+
+/* Styling for the email paragraph */
+.email {
+    font-size: 1em; /* Normal font size */
+    color: #032338; /* Blue text color */
+}
+
+/* General styling for all hyperlinks */
+a {
+    color: #ff7474; /*[[[[[]ertte42 Sets the color of links to blue */
+    text-decoration: none; /* Removes the underline from the link */
+}
+
+/* Hover effect for links */
+a:hover {
+    text-decoration: underline; /* Underlines the link when the user hovers over it */
+}

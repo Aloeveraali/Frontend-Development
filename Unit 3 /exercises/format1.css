@@ -1,0 +1,19 @@
+body
+{
+    background-color: #fdfdfd;
+    color:  #000099;
+    font-family:  Arial, Helvetica, sans-serif ;
+
+}
+/* Hyperlink styles */
+a
+{
+background-color: #858585;   /* Gray background color for hyperlinks */
+color: #000099;      /* Dark blue text for hyperlinks */
+}
+
+h1
+{
+    font-family: "Times New Roman", Times, serif;
+    color:#990000
+}

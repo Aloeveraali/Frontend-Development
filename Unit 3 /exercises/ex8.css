@@ -1,0 +1,21 @@
+body
+{
+ background-color: rgb(0, 0, 0);
+ color: #ffffff; 
+ font-family: Arial, Helvetica, sans-serif;
+}
+a
+{
+    background-color: #CCCCCC;
+}
+
+h1
+{
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    color: grey;
+}
+.new
+{
+    font-style: italic;
+    color: red
+}
