@@ -9,10 +9,12 @@ The course is designed to provide hands-on experience in frontend development, e
 ## Assignments
 
 ### Unit 1: [Introduction to Frontend Development]
-- Exercises for learning basic HTML structure and CSS styling.
+- Introduction to the basics of HTML and setting up a development environment.
+- Exercises include creating a simple "Hello World" HTML page and configuring the development environment with tools like Chrome, Visual Studio Code, and Git
 
 ### Unit 2: [Structuring the Web]
-- Exercises to practice more advanced HTML tags, CSS selectors, and layouts.
+- Understanding the basic structure and elements of an HTML5 document (headings, paragraphs, lists, links, etc.).
+- Exercises include creating HTML elements such as headings, lists, and simple web pages with proper structure.
 
 ### Unit 3: [Cascading Style Sheets (CSS)]
 - Core CSS concepts: syntax, box model, and selectors.
