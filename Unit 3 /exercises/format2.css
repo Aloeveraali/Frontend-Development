@@ -1,0 +1,22 @@
+
+body {
+    background-color: yellow;      /* Yellow background */
+    color: green;                  /* Green text color */
+    font-family: Arial, Helvetica, sans-serif; /* Default font family */
+  }
+  
+  /* Hyperlink styles */
+  a {
+    background-color: white;       /* White background for hyperlinks */
+    color: green;                  /* Green text color for hyperlinks */
+    text-decoration: none;         /* No underline for hyperlinks */
+  }
+  
+  /* h1 styles */
+  h1 {
+    font-family: "Times New Roman", Times, serif; /* Times New Roman font */
+    background-color: white;                      /* White background for h1 */
+    color: green;                                 /* Green text color */
+    padding: 10px;                                /* Optional padding for better spacing */
+  }
+  
